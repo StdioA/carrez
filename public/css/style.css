@@ -1,3 +1,22 @@
+#bg {
+	background: url("/img/stars.jpg") bottom left;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	/*background-color: #ccc;*/
+}
+
+#overlay {
+	background: rgba(255, 255, 255, 0.1);
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
 body > .ui.container {
 	margin-top: 3em;
 }
@@ -6,6 +25,6 @@ body > .ui.container {
 	width: 100%;
 }
 
-body {
-	background-color: #ccc;
+div#result {
+	opacity: 0.95;
 }
