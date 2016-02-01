@@ -1,5 +1,7 @@
 # LOI CARREZ
 
+![subject](https://img.shields.io/badge/subject-homework%20of%20a%20friend-brightgreen.svg)
+
 > node.js workshop based on real estate
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
