@@ -1,6 +1,18 @@
 # LOI CARREZ
 
-![subject](https://img.shields.io/badge/subject-homework%20of%20a%20friend-brightgreen.svg)
+![subject](https://img.shields.io/badge/subject-homework%20of%20a%20friend-brightgreen.svg) ![star](https://img.shields.io/badge/Stars-100M+-green.svg?style=social) ![fake!](https://img.shields.io/badge/%E2%86%90-Fake!-red.svg?style=flat) [![BADGINATOR](https://badginator.herokuapp.com/StdioA/my_carrez.svg)](https://github.com/defunctzombie/badginator)
+
+An app based on node.js.
+
+## How to Run
+
+`git clone` and `npm install` and `node app.js`.
+
+## Explanations about the author of most of commits
+
+这个app是我写的，但是因为某些（不能说的）原因，commit的名字不是我，就酱:joy:
+
+## Original README
 
 > node.js workshop based on real estate
 
