@@ -5,6 +5,10 @@ $(document).ready(function () {
 });
 
 $("#compute").click(function () {
+	if($("#compute").hasClass("loading")) {
+		return;
+	}
+	
 	(function init() {
 		$("#result").fadeOut();
 		$("#values").show();

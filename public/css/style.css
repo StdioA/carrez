@@ -28,3 +28,7 @@ body > .ui.container {
 div#result {
 	opacity: 0.95;
 }
+
+h1.ui.header {
+	color: #ff0;
+}

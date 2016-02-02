@@ -1,6 +1,6 @@
 # LOI CARREZ
 
-![subject](https://img.shields.io/badge/subject-homework%20of%20a%20friend-brightgreen.svg) ![star](https://img.shields.io/badge/Stars-100M+-green.svg?style=social) ![fake!](https://img.shields.io/badge/%E2%86%90-Fake!-red.svg?style=flat) [![BADGINATOR](https://badginator.herokuapp.com/StdioA/my_carrez.svg)](https://github.com/defunctzombie/badginator)
+![subject](https://img.shields.io/badge/subject-homework%20of%20a%20friend-brightgreen.svg) ![star](https://img.shields.io/badge/Stars-100M+-green.svg?style=social) ![fake!](https://img.shields.io/badge/%E2%86%90-Just%20a%20joke>__<-red.svg?style=flat) [![BADGINATOR](https://badginator.herokuapp.com/StdioA/my_carrez.svg)](https://github.com/defunctzombie/badginator)
 
 An app based on node.js.
 
